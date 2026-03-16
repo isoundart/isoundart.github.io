@@ -1,4 +1,4 @@
-var p = document.getElementById('dog');
-p.addEventListener('click', function(event) {
-  p.innerHTML = 'You clicked it!';
+var bach = document.getElementById('dog');
+bach.addEventListener('click', function(event) {
+  bach.innerHTML = 'You clicked it!';
 });
